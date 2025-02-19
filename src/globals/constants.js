@@ -33,9 +33,9 @@ export function loadScript(src, fromPublic) {
 
 export const companyDetails = {
   name: "Paramind AI",
-  number: "+0000000000",
-  address: "India",
-  email: "abc@example.com",
+  number: "+9159735300",
+  address: "G3 Rams appartment bharathiyar 5th St SS colony Madurai 16",
+  email: "akhi.akhila2330@gmail.com",
   facebook: "",
   linkedin: "",
   instagram: "",
